@@ -1,0 +1,13 @@
+{
+  "name": "freqtrade-node",
+  "version": "1.0.0",
+  "description": ".Using Node.js to clone a repository into a Ubuntu server on aR ender backend and run setup shell scripts as an alternative to fix installation fails on both Windows and an emulated KaLi VM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
